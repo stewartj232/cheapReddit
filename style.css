@@ -1,0 +1,23 @@
+.captions {
+  font-size: 60px;
+  margin:15px auto;
+
+}
+.post {
+  border: 3px dashed green;
+  height: auto;
+  width:90%;
+  margin: 10px auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.pics {
+  float:right;
+  height: 150px
+  width: auto;
+  margin: auto;
+  border:5px solid blue;
+}
